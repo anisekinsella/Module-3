@@ -15,8 +15,14 @@ To write a Python program that accepts a string and removes the character at a s
 8. Print the final result.
 
 ## 💻 Program
-Add Code Here
-
+```
+def slice(s):
+    s = str(s)                 
+    sliced = s[2:7]            
+    print(f"The sliced string is '{sliced}'")
+```
 ## Output
+<img width="1187" height="249" alt="image" src="https://github.com/user-attachments/assets/951c4715-faa3-4afe-8410-980b4cc1b9c4" />
 
 ## Result
+Executed Successfully.
